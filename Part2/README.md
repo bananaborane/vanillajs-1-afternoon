@@ -36,7 +36,7 @@ In this step, we will connect a javascript file to our HTML.
   </head>
 <body>
   <header><h1>Poker Cards</h1></header>
-    <main>
+    <main>  
         <section><span>A</span><span>♦</span><span>A</span></section>
         <section><span>A</span><span>♣</span><span>A</span></section>
         <section><span>A</span><span>♥</span><span>A</span></section>
